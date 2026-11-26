@@ -5,9 +5,9 @@
 # Tecnológico Nacional de México [TecNM - Tijuana]
 # Blvd. Alberto Limón Padilla s/n, C.P. 22454, Tijuana, B.C., México
 
-# Nombre del alumno: De La Cruz Bojorquez Kevin Dario, Del Toro Nuñez Eduardo, Rodriguez Padilla Kevin 
-# Número de control: 20210777, C23212399, 22210428
-# Correo institucional: L20210777@TIJUANA.TECNM.MX,LC23212399@TIJUANA.TECNM.MX L22210428@TIJUANA.TECNM.MX
+# Nombres de los alumnos : De La Cruz Bojorquez Kevin Dario, Del Toro Nuñez Eduardo, Rodriguez Padilla Kevin 
+# Números de control: 20210777, C23212399, 22210428
+# Correos institucionales: L20210777@TIJUANA.TECNM.MX,LC23212399@TIJUANA.TECNM.MX L22210428@TIJUANA.TECNM.MX
 
 # Asignatura: Modelado de Sistemas Fisiológicos
 # Docente: Dr. Paul Antonio Valle Trujillo; paul.valle@tectijuana.edu.mx
