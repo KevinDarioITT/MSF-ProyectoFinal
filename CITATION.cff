@@ -1,0 +1,34 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Proyecto Final: Retinosis Pigmentaria en los
+  fotorreceptores 
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - email: L20210777@TIJUANA.TECNM.MX
+    given-names: Kevin D
+    family-names: De La Cruz
+    affiliation: TecNM / ITT Tijuana
+  - affiliation: TecNM / ITT Tijuana
+    given-names: Eduardo
+    family-names: Del Toro
+    email: LC23212399@TIJUANA.TECNM.MX
+  - email: LC23212399@TIJUANA.TECNM.MX
+    given-names: Kevin
+    family-names: Rodriguez
+    affiliation: LC23212399@TIJUANA.TECNM.MX
+repository-code: 'https://github.com/KevinDarioITT/MSF-ProyectoFinal'
+keywords:
+  - retinosis pigmentaria
+  - fotorreceptores
+  - Controlador PID
+  - Circuito RLC
+  - Función de Transferencia
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-11-26'
