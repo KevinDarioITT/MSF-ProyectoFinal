@@ -47,7 +47,6 @@ Repositorio académico del proyecto final de **Modelado de Sistemas Fisiológico
 17. [Requisitos](#requisitos)
 18. [Reproducibilidad y entregables](#reproducibilidad)
 19. [Referencias](#referencias)
-20. [Ensayo gráfico](#ensayo-grafico)
 
 ---
 
@@ -667,7 +666,6 @@ flowchart TD
     B --> Q[Diagrama biologico]
     P --> R[Documentacion en GitHub]
     Q --> R
-    P --> S[Ensayo grafico]
     Q --> S
     S --> R
 ```
