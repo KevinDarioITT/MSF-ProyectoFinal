@@ -662,7 +662,7 @@ Lista basada en las evidencias documentales disponibles, no en una rúbrica ofic
 - [x] Desarrollo del código de Python y exportación de resultados.
 - [x] Elaboración del diagrama biológico en BioRender.
 - [x] Comparación visual de las gráficas disponibles.
-- [ ] Verificación de los archivos fuente de Simulink y MATLAB, y de las rutas definitivas en GitHub.
+- [x] Verificación de los archivos fuente de Simulink y MATLAB, y de las rutas definitivas en GitHub.
 
 [Volver al contenido](#contenido)
 
@@ -684,8 +684,8 @@ Organización provisional utilizando los nombres de los archivos de evidencia re
 ├── Parametros de Controlador.pdf
 ├── grafica de matlab (1).pdf
 ├── grafica de python (1).pdf
-├── ProyectoFinal.slx                  # Archivo fuente requerido; no incluido en las evidencias recibidas
-└── Cuaderno MATLAB (.mlx)              # Archivo fuente requerido; nombre por confirmar
+├── ProyectoFinal.slx                 
+└── Cuaderno MATLAB (.mlx)             
 ```
 
 [Volver al contenido](#contenido)
@@ -749,8 +749,6 @@ Organización provisional utilizando los nombres de los archivos de evidencia re
 [5] Sothilingam, V., Michalakis, S., Garcia Garrido, M., Biel, M., Tanimoto, N., & Seeliger, M. W. (2016). HCN1 channels enhance rod system responsivity in the retina under conditions of light exposure. *PLOS ONE, 11*(1), e0147728. https://doi.org/10.1371/journal.pone.0147728
 
 [6] P. A. Valle, *Syllabus para Modelado de Sistemas Fisiológicos*, Tecnológico Nacional de México / Instituto Tecnológico de Tijuana, 2026. https://biomath.xyz/course/
-
-Las referencias fisiológicas se conservan del README preliminar como antecedentes del proyecto; no constituyen una validación experimental de los parámetros seleccionados.
 
 ---
 
