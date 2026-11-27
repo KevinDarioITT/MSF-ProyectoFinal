@@ -795,7 +795,7 @@ También presenta la analogía fisiológica-eléctrica, las respuestas del contr
 
 [![Ensayo gráfico del proyecto final: retinosis pigmentaria](Ensayo_Grafico.png)](Ensayo%20Grafico.pdf)
 
-*Figura 2. Ensayo gráfico del proyecto final. Selecciona la imagen para consultar el documento completo en PDF.*
+*Figura 2. Ensayo gráfico del proyecto final.
 
 **Documento:** [Ensayo Grafico.pdf](Ensayo%20Grafico.pdf)
 
