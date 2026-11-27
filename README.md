@@ -781,24 +781,6 @@ Organización propuesta con los archivos fuente y las evidencias recibidas. Se s
 [5] Sothilingam, V., Michalakis, S., Garcia Garrido, M., Biel, M., Tanimoto, N., & Seeliger, M. W. (2016). HCN1 channels enhance rod system responsivity in the retina under conditions of light exposure. *PLOS ONE, 11*(1), e0147728. https://doi.org/10.1371/journal.pone.0147728
 
 [6] P. A. Valle, *Syllabus para Modelado de Sistemas Fisiológicos*, Tecnológico Nacional de México / Instituto Tecnológico de Tijuana, 2026. https://biomath.xyz/course/
-
----
-
-<a id="ensayo-grafico"></a>
-## Ensayo gráfico
-
-Como complemento de la documentación técnica, se elaboró un ensayo gráfico de una página en formato horizontal que sintetiza el desarrollo del proyecto final. El documento integra la descripción del sistema fisiológico y la retinosis pigmentaria, los parámetros RLC del control y del caso, el circuito equivalente, las ecuaciones integro-diferenciales, las funciones de transferencia con sus denominadores completos, los polos y el error estacionario.
-
-También presenta la analogía fisiológica-eléctrica, las respuestas del control, del caso y del tratamiento simulado con PID, el diagrama fisiológico de BioRender, las conclusiones y las referencias bibliográficas. Incluye un código QR que dirige al repositorio del proyecto.
-
-[![Ensayo gráfico del proyecto final: retinosis pigmentaria](Ensayo_Grafico.png)](Ensayo%20Grafico.pdf)
-
-*Figura 2. Ensayo gráfico del proyecto final.
-
-**Documento:** [Ensayo Grafico.pdf](Ensayo%20Grafico.pdf)
-
-[Volver al contenido](#contenido)
-
 ---
 
 ## Uso académico
